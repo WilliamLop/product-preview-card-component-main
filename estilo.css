@@ -21,7 +21,7 @@ main{
     place-items: center;
     height: 100vh;
     background-color: var(--Cream);
-    padding: 2rem 0;
+    /* padding: 2rem 0; */
 }
 .card{
     width: 90%;
