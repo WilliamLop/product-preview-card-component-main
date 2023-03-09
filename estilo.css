@@ -106,6 +106,9 @@ main{
 
 }
 @media (min-width: 48rem){
+    main{
+        padding: 0;
+    }
     .card{
         width: 74%;
         height: 50%;
